@@ -21,3 +21,4 @@ How to Represent a Chromosome
 How to Created the intial Set of Candiate Schedules
 How to Evaluate the quality or fitness of a schedule 
 In Each step of Genetic Algorithms 
+Explore Value Employing Hybrid Methods SUch as MIP(Mixed Integer Programming) LocalSearch..etc
